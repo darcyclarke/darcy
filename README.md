@@ -14,6 +14,8 @@ or
 $ yarn add darcy
 ```
 
+then
+
 ```js
 const darcy = require('darcy')
 ```
