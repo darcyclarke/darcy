@@ -45,6 +45,7 @@
   },
   "homepage": "https://github.com/darcyclarke/darcy#readme",
   "config": {
+    "commit-msg": "conventional",
     "pre-git": {
       "pre-push": [
         "echo 'Pre-push checks...' && exit 0",
