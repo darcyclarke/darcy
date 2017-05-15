@@ -48,7 +48,8 @@
     "pre-git": {
       "pre-push": [
         "echo 'Pre-push checks...' && exit 0",
-        "npm run lint && npm test"
+        "npm run lint",
+        "npm test"
       ]
     }
   }
