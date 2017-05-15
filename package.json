@@ -1,0 +1,44 @@
+{
+  "name": "darcy",
+  "version": "1.0.0",
+  "description": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint . --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darcyclarke/darcy.git"
+  },
+  "devDependencies": {
+    "mocha": "3.2.0",
+    "eslint": "3.12.2",
+    "babel-eslint": "7.2.3",
+    "eslint-config-standard": "6.2.1",
+    "eslint-plugin-promise": "3.4.0",
+    "eslint-plugin-standard": "2.0.1"
+  },
+  "keywords": [
+    "profile",
+    "darcy",
+    "darcyclarke",
+    "developer",
+    "designer",
+    "strategy",
+    "ux",
+    "web",
+    "development",
+    "node",
+    "javascript",
+    "oss",
+    "css",
+    "html"
+  ],
+  "author": "Darcy Clarke <darcy@darcyclarke.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darcyclarke/darcy/issues"
+  },
+  "homepage": "https://github.com/darcyclarke/darcy#readme"
+}
