@@ -1,2 +1,13 @@
 # darcy
-I build things (ie. apps, experiences, companies, teams, communities &amp; culture) I ❤ the web+ux &amp; take a holistic approach to problem solving (dev+des+strategy)
+
+[![npm version](https://badge.fury.io/js/darcy.svg)](https://badge.fury.io/js/darcy)
+
+[![travis builds](https://travis-ci.org/darcyclarke/darcy.svg?branch=master)](https://travis-ci.org/darcyclarke/darcy)
+
+```bash
+$ npm i darcy
+```
+
+```js
+const darcy = require('darcy') // me
+```
