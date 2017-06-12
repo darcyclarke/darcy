@@ -1,0 +1,118 @@
+{
+  "name": "Darcy Clarke",
+  "email": "darcy@darcyclarke.me",
+  "photo": "https://pbs.twimg.com/profile_images/728088529629118467/f7Bd4Y-T.jpg",
+  "bio": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
+  "links": {
+    "site": "http://darcyclarke.me",
+    "twitter": "https://twitter.com/darcy",
+    "github": "https://github.com/darcyclarke",
+    "linkedin": "https://www.linkedin.com/in/darcyclarke",
+    "angel": "https://angel.co/darcyclarke",
+    "npm": "https://www.npmjs.com/~darcyclarke"
+  },
+  "books": [
+    {
+      "id": "",
+      "name": "Planet Google",
+      "author": "Randall Stross",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "Are you smart enough to work at google?",
+      "author": "Willam Foundstone",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "Execute, Drew Wilson",
+      "author": "Josh Long",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "The Magic of Reality",
+      "author": "Richard Dawkins",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "The God Delusion",
+      "author": "Richard Dawkins",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "God is not Great",
+      "author": "Christopher Hitchens",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "The Bedside book of physics",
+      "author": "Issac McPhee",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "How to create a mind",
+      "author": "Ray Kurzweil",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "Thinking Big: How the evolution of social life shaped the human mind",
+      "author": "Gamble, Gowlett, Dunbar",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "The Grand Design",
+      "author": "Stephen Hawking",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "A brief history of time",
+      "author": "Stephen Hawking",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "Freakonomics",
+      "author": "Steven D. Levitt",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "SuperFreakonmics",
+      "author": "Steven De. Levitt",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "The Monk Who Sold his Ferrari",
+      "author": "Robin Sharma",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert M. Pirsig",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "Walden and Civil Disobedence",
+      "author": "Henry David Thoreau",
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": "The Wealthy Barber Returns",
+      "author": "David Barr Chilton",
+      "url": ""
+    }
+  ]
+}
