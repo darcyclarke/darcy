@@ -27,7 +27,7 @@
     "inquirer": "3.0.6",
     "lowdb": "0.16.2",
     "mocha": "3.4.2",
-    "yargs": "8.0.1"
+    "yargs": "8.0.2"
   },
   "keywords": [
     "profile",
