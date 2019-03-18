@@ -1,25 +1,34 @@
 {
-  "name": "Darcy Clarke",
-  "email": "darcy@darcyclarke.me",
-  "photo": "https://pbs.twimg.com/profile_images/728088529629118467/f7Bd4Y-T.jpg",
-  "bio": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
-  "links": {
-    "site": "http://darcyclarke.me",
-    "twitter": "https://twitter.com/darcy",
-    "codepen": "https://codepen.io/darcy",
-    "keybase": "https://keybase.io/darcyclarke",
-    "github": "https://github.com/darcyclarke",
-    "linkedin": "https://www.linkedin.com/in/darcyclarke",
-    "facebook": "https://www.facebook.com/darcyclarke",
-    "angel": "https://angel.co/darcyclarke",
-    "npm": "https://www.npmjs.com/~darcyclarke"
+  "og:locale": "en_US",
+  "og:url": "http://darcyclarke.me",
+  "og:image": "https://pbs.twimg.com/profile_images/728088529629118467/f7Bd4Y-T.jpg",
+  "og:title": "Darcy Clarke",
+  "og:site_name": "Darcy Clarke",
+  "og:description": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
+  "og:profile": {
+    "og:profile:first_name": "Darcy",
+    "og:profile:last_name": "Clarke",
+    "og:profile:email": "darcy@darcyclarke.me",
+    "og:profile:username": "darcyclarke",
+    "og:profile:gender": "male"
   },
-  "books": [
+  "og:links": {
+    "og:link:twitter": "https://twitter.com/darcy",
+    "og:link:codepen": "https://codepen.io/darcy",
+    "og:link:keybase": "https://keybase.io/darcyclarke",
+    "og:link:github": "https://github.com/darcyclarke",
+    "og:link:linkedin": "https://www.linkedin.com/in/darcyclarke",
+    "og:link:facebook": "https://www.facebook.com/darcyclarke",
+    "og:link:angellist": "https://angel.co/darcyclarke",
+    "og:link:npm": "https://www.npmjs.com/~darcyclarke"
+  },
+  "og:books": [
     {
-      "id": "",
-      "name": "Planet Google",
-      "author": "Randall Stross",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Planet Google",
+      "og:book:author": "Randall Stross",
+      "og:book:release_date": "",
+      "og:book:url": ""
     },
     {
       "id": "",
