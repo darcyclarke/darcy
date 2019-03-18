@@ -7,6 +7,6 @@ describe('require darcy', () => {
     assert.equal(typeof info, typeof {})
   })
   it('should have a first name', () => {
-    assert.ok(!!info['og:profile:first_name'])
+    assert.ok(!!info['og:profile']['og:profile:first_name'])
   })
 })
