@@ -1,5 +1,4 @@
-import info from '../index'
-
+const info = require('../index')
 const assert = require('assert')
 
 describe('require darcy', () => {

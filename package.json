@@ -4,7 +4,7 @@
   "description": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha js:babel-core/register",
+    "test": "mocha",
     "lint": "npx eslint .",
     "admin": "node ./scripts/admin.js",
     "add": "npm run admin -- --add",
@@ -19,9 +19,6 @@
     "url": "git+https://github.com/darcyclarke/darcy.git"
   },
   "devDependencies": {
-    "babel-core": "6.26.3",
-    "babel-eslint": "10.0.1",
-    "babel-preset-es2015": "6.24.1",
     "eslint": "5.15.2",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.16.0",
