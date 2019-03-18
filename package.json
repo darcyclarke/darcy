@@ -4,7 +4,7 @@
   "description": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --compilers js:babel-core/register",
+    "test": "mocha js:babel-core/register",
     "lint": "npx eslint .",
     "admin": "node ./scripts/admin.js",
     "add": "npm run admin -- --add",
