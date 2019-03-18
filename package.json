@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "lint": "npx eslint .",
+    "lint": "eslint .",
     "admin": "node ./scripts/admin.js",
     "add": "npm run admin -- --add",
     "remove": "npm run admin -- --remove",
