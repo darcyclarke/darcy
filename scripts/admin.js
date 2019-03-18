@@ -41,8 +41,9 @@ const questions = [
 ]
 
 if (argv.add) {
-  console.log(db.getState())
+  // console.log(db.getState())
   inquirer.prompt([questions]).then(function (answers) {
-
+    
   })
-}
+} 
+
