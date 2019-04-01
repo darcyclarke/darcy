@@ -6,8 +6,6 @@
 
 The data schema is based on [Open Graph Protocol](http://ogp.me/) metadata spec but slightly modified to add further context/expansion in the default, `:profile` & `:book` `type`s. Also, it adds a new `:link` `type`.
 
-I may create some sort of **human** spec at some point to standardize this format for ease of use when sharing profile information with folks (ex. conference/meetup organizers, employers etc.). Let me know if you think that would be useful by :+1:*'ing* [this issue](https://github.com/darcyclarke/darcy/issues/73).
-
 ### Adding me to your project (or just get my info)
 
 ```bash
