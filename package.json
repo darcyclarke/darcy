@@ -29,7 +29,7 @@
     "lowdb": "1.0.0",
     "mocha": "6.1.4",
     "pre-git": "3.17.1",
-    "yargs": "13.2.2"
+    "yargs": "13.2.4"
   },
   "keywords": [
     "profile",
