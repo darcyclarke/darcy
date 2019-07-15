@@ -9,7 +9,9 @@
     "admin": "node ./scripts/admin.js",
     "add": "npm run admin -- --add",
     "remove": "npm run admin -- --remove",
-    "edit": "npm run admin -- --edit"
+    "edit": "npm run admin -- --edit",
+    "start:lambda": "netlify-lambda serve src/",
+    "build:lambda": "netlify-lambda build src/"
   },
   "publishConfig": {
     "access": "public"
@@ -65,5 +67,8 @@
   },
   "release": {
     "analyzeCommits": "simple-commit-message"
+  },
+  "dependencies": {
+    "netlify-lambda": "^1.5.0"
   }
 }
