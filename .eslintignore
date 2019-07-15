@@ -3,3 +3,5 @@ dist/*
 .github/*
 test/*
 test/
+functions/
+functions/*
