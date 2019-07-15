@@ -10,8 +10,9 @@
     "add": "npm run admin -- --add",
     "remove": "npm run admin -- --remove",
     "edit": "npm run admin -- --edit",
-    "start:lambda": "netlify-lambda serve src/",
-    "build:lambda": "netlify-lambda build src/"
+    "start:lambda": "netlify-lambda serve ./src/",
+    "build:lambda": "netlify-lambda build ./src/",
+    "open:lambda": "open http://localhost:9000/.netlify/functions/get"
   },
   "publishConfig": {
     "access": "public"
@@ -31,7 +32,8 @@
     "lowdb": "1.0.0",
     "mocha": "6.1.4",
     "pre-git": "3.17.1",
-    "yargs": "13.2.4"
+    "yargs": "13.2.4",
+    "netlify-lambda": "^1.5.0"
   },
   "keywords": [
     "profile",
@@ -67,8 +69,5 @@
   },
   "release": {
     "analyzeCommits": "simple-commit-message"
-  },
-  "dependencies": {
-    "netlify-lambda": "^1.5.0"
   }
 }
