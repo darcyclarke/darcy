@@ -10,6 +10,7 @@
     "add": "npm run admin -- --add",
     "remove": "npm run admin -- --remove",
     "edit": "npm run admin -- --edit",
+    "build": "mkdir ./dist/ && marked -o ./dist/index.html README.md && npm run build:lambda",
     "start:lambda": "netlify-lambda serve ./src/",
     "build:lambda": "netlify-lambda build ./src/",
     "open:lambda": "open http://localhost:9000/.netlify/functions/get"
@@ -30,10 +31,11 @@
     "eslint-plugin-standard": "^4.0.0",
     "inquirer": "6.5.0",
     "lowdb": "1.0.0",
+    "marked": "^0.7.0",
     "mocha": "6.1.4",
+    "netlify-lambda": "^1.5.0",
     "pre-git": "3.17.1",
-    "yargs": "13.2.4",
-    "netlify-lambda": "^1.5.0"
+    "yargs": "13.2.4"
   },
   "keywords": [
     "profile",

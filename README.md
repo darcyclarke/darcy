@@ -1,3 +1,22 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+<article class="markdown-body">
+
 # 👤 darcy
 
 [![npm version](https://badge.fury.io/js/darcy.svg)](https://badge.fury.io/js/darcy) [![Build Status](https://travis-ci.org/darcyclarke/darcy.svg?branch=master)](https://travis-ci.org/darcyclarke/darcy) [![Known Vulnerabilities](https://snyk.io/test/github/darcyclarke/darcy/badge.svg)](https://snyk.io/test/github/darcyclarke/darcy) [![Greenkeeper badge](https://badges.greenkeeper.io/darcyclarke/darcy.svg)](https://greenkeeper.io/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e2e9f0d7-1859-45fc-a025-95941ad1843b/deploy-status)](https://app.netlify.com/sites/api-services/deploys)
@@ -37,3 +56,4 @@ fetch('https://darcy.netlify.com/.netlify/functions/get')
   .then(res => res.json())
   .then(json => console.log(json)) // me...
 ```
+</article>
