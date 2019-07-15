@@ -1,4 +1,4 @@
 [build]
   functions = "functions"
-  command = "cd ./src/ && npm i && cd npm run build:lambda"
+  command = "npm run build:lambda"
   publish = "build"
