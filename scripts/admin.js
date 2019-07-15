@@ -15,7 +15,7 @@ db.setState(data)
 
 const argv = require('yargs')
   .options({
-    'add': {
+    add: {
       alias: 'a',
       describe: 'add a new item'
     }
