@@ -1,4 +1,5 @@
-const darcy = require('../')
+const darcy = require('../index')
+console.log(darcy)
 exports.handler = function (event, context, callback) {
   if (!event || !context) {
     console.log(event, context)
