@@ -1,5 +1,5 @@
 const darcy = require('../')
-exports.handler = function(event, context, callback) {
+exports.handler = function (event, context, callback) {
   if (!event || !context) {
     console.log(event, context)
     return null
