@@ -1,6 +1,6 @@
 machine:
   node:
-    version: 6.10.3
+    version: 10
 dependencies:
   pre:
-    - npm i -g npm
+    - npm i -g npm && npm i
