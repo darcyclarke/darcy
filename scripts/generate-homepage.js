@@ -6,7 +6,6 @@ const output = path.resolve(__dirname, '../dist/index.html')
 const handleError = (err) => {
   if (err) {
     console.log(err)
-    return
   }
 }
 const template = (body) => `
@@ -35,4 +34,3 @@ fs.readFile(input, 'utf8', (err, markdown) => {
   const body = marked(markdown.toString())
   fs.writeFile(output, template(body), handleError)
 })
-
