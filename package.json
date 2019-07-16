@@ -10,7 +10,8 @@
     "add": "npm run admin -- --add",
     "remove": "npm run admin -- --remove",
     "edit": "npm run admin -- --edit",
-    "build": "mkdir ./dist/ && marked -o ./dist/index.html README.md && npm run build:lambda",
+    "build": "mkdir -p ./dist/ && npm run build:homepage && npm run build:lambda",
+    "build:homepage": "node ./scripts/generate-homepage.js",
     "start:lambda": "netlify-lambda serve ./src/",
     "build:lambda": "netlify-lambda build ./src/",
     "open:lambda": "open http://localhost:9000/.netlify/functions/get"
