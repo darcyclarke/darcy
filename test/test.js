@@ -13,8 +13,7 @@ describe('require darcy', () => {
 
 describe('api', () => {
   it('should return json', async () => {
-    const json = await axios.get('https://darcy.netlify.com/.netlify/functions/get')
-    console.log(json.headers)
-    assert.equal(typeof json, typeof {})
+    const json = await axios.get('http://localhost:9000/.netlify/functions/get')
+    assert.equal(json.headers['content-type'], 'application/json')
   })
 })

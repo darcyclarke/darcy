@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
+    "ci": "start-server-and-test start:lambda http://localhost:9000/.netlify/functions/heartbeat test",
     "lint": "eslint .",
     "admin": "node ./scripts/admin.js",
     "add": "npm run admin -- --add",
@@ -37,6 +38,7 @@
     "mocha": "6.1.4",
     "netlify-lambda": "^1.5.0",
     "pre-git": "3.17.1",
+    "start-server-and-test": "^1.9.1",
     "yargs": "13.3.0"
   },
   "keywords": [
@@ -67,7 +69,7 @@
       "pre-push": [
         "echo 'Pre-push checks...' && exit 0",
         "npm run lint",
-        "npm test"
+        "npm run ci"
       ]
     }
   },
