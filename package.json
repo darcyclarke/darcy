@@ -36,7 +36,7 @@
     "mocha": "6.1.4",
     "netlify-lambda": "^1.5.0",
     "pre-git": "3.17.1",
-    "yargs": "13.2.4"
+    "yargs": "13.3.0"
   },
   "keywords": [
     "profile",
