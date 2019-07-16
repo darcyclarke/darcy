@@ -4,7 +4,7 @@ exports.handler = function (event, context, callback) {
     statusCode: 200,
     headers: {
       'content-type': 'application/json',
-      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Origin': '*'
     },
     body: JSON.stringify(darcy, 2)
   })
