@@ -29,11 +29,19 @@ You can query my data directly from: `https://darcy.netlify.com/.netlify/functio
 **Examples:**
 
 ```bash
-curl -v https://darcy.netlify.com/.netlify/functions/get
+# curl
+curl -v https://darcy.netlify.com/.netlify/functions/get # me...
 ```
 
 ```js
+// fetch
 fetch('https://darcy.netlify.com/.netlify/functions/get')
   .then(res => res.json())
   .then(json => console.log(json)) // me...
+```
+
+```js
+// axios
+require('axios').get('https://darcy.netlify.com/.netlify/functions/get')
+  .then(res => console.log(res.data)) // me...
 ```
