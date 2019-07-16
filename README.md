@@ -4,7 +4,7 @@
 
 ![Darcy's Banner](https://user-images.githubusercontent.com/459713/54567108-245ebd00-49a9-11e9-9ff7-8c24895a4350.jpg)
 
-The data schema is based on [Open Graph Protocol](http://ogp.me/) metadata spec but slightly modified to add further context/expansion in the default, `:profile` & `:book` `type`s. Also, it adds a new `:link` `type`.
+The data schema is based on [Open Graph Protocol](http://ogp.me/) metadata spec but slightly modified to add further context/expansion in the default `:profile` & `:book` types while also adding a new `:link` type.
 
 #### Add me to your deps
 
@@ -24,7 +24,7 @@ import darcy from 'darcy'
 
 #### API Requests
 
-You can query my data directly from: `https://darcy.netlify.com/.netlify/functions/get` (ie. *DaaS: Darcy as a Service*)
+You can query my data directly from: [https://darcy.netlify.com/.netlify/functions/get](https://darcy.netlify.com/.netlify/functions/get)
 
 **Examples:**
 
