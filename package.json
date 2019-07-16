@@ -4,8 +4,8 @@
   "description": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "ci": "start-server-and-test start:lambda http://localhost:9000/.netlify/functions/heartbeat test",
+    "tests": "mocha",
+    "test": "start-server-and-test start:lambda http://localhost:9000/.netlify/functions/heartbeat tests",
     "lint": "eslint .",
     "admin": "node ./scripts/admin.js",
     "add": "npm run admin -- --add",
@@ -69,7 +69,7 @@
       "pre-push": [
         "echo 'Pre-push checks...' && exit 0",
         "npm run lint",
-        "npm run ci"
+        "npm run test"
       ]
     }
   },
