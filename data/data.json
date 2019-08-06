@@ -31,100 +31,100 @@
       "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "Are you smart enough to work at google?",
-      "author": "Willam Foundstone",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Are you smart enough to work at google?",
+      "og:book:author": "Willam Foundstone",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "Execute, Drew Wilson",
-      "author": "Josh Long",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Execute, Drew Wilson",
+      "og:book:author": "Josh Long",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "The Magic of Reality",
-      "author": "Richard Dawkins",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "The Magic of Reality",
+      "og:book:author": "Richard Dawkins",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "The God Delusion",
-      "author": "Richard Dawkins",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "The God Delusion",
+      "og:book:author": "Richard Dawkins",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "God is not Great",
-      "author": "Christopher Hitchens",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "God is not Great",
+      "og:book:author": "Christopher Hitchens",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "The Bedside book of physics",
-      "author": "Issac McPhee",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "The Bedside book of physics",
+      "og:book:author": "Issac McPhee",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "How to create a mind",
-      "author": "Ray Kurzweil",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "How to create a mind",
+      "og:book:author": "Ray Kurzweil",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "Thinking Big: How the evolution of social life shaped the human mind",
-      "author": "Gamble, Gowlett, Dunbar",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Thinking Big: How the evolution of social life shaped the human mind",
+      "og:book:author": "Gamble, Gowlett, Dunbar",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "The Grand Design",
-      "author": "Stephen Hawking",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "The Grand Design",
+      "og:book:author": "Stephen Hawking",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "A brief history of time",
-      "author": "Stephen Hawking",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "A brief history of time",
+      "og:book:author": "Stephen Hawking",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "Freakonomics",
-      "author": "Steven D. Levitt",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Freakonomics",
+      "og:book:author": "Steven D. Levitt",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "SuperFreakonmics",
-      "author": "Steven De. Levitt",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "SuperFreakonmics",
+      "og:book:author": "Steven De. Levitt",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "The Monk Who Sold his Ferrari",
-      "author": "Robin Sharma",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "The Monk Who Sold his Ferrari",
+      "og:book:author": "Robin Sharma",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "Zen and the Art of Motorcycle Maintenance",
-      "author": "Robert M. Pirsig",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Zen and the Art of Motorcycle Maintenance",
+      "og:book:author": "Robert M. Pirsig",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "Walden and Civil Disobedence",
-      "author": "Henry David Thoreau",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "Walden and Civil Disobedence",
+      "og:book:author": "Henry David Thoreau",
+      "og:book:url": ""
     },
     {
-      "id": "",
-      "name": "The Wealthy Barber Returns",
-      "author": "David Barr Chilton",
-      "url": ""
+      "og:book:isbn": "",
+      "og:book:title": "The Wealthy Barber Returns",
+      "og:book:author": "David Barr Chilton",
+      "og:book:url": ""
     }
   ]
 }
