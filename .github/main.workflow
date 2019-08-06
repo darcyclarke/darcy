@@ -1,6 +1,6 @@
 workflow "Build, deploy & push" {
-  on = "release"
   resolves = ["Publish"]
+  on = "push"
 }
 
 action "Build" {
