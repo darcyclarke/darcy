@@ -39,7 +39,7 @@
     "netlify-lambda": "^1.5.0",
     "pre-git": "3.17.1",
     "start-server-and-test": "^1.9.1",
-    "yargs": "13.3.0"
+    "yargs": "14.0.0"
   },
   "keywords": [
     "profile",
