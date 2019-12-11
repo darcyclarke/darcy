@@ -17,6 +17,10 @@
     "build:lambda": "netlify-lambda build ./src/",
     "open:lambda": "open http://localhost:9000/.netlify/functions/get"
   },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/darcyclarke/"
+  },
   "publishConfig": {
     "access": "public"
   },
