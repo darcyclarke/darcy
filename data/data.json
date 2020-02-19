@@ -11,7 +11,8 @@
     "og:profile:email": "darcy@darcyclarke.me",
     "og:profile:username": "darcyclarke",
     "og:profile:gender": "male",
-    "og:profile:pronouns": ["he", "him", "his"]
+    "og:profile:pronouns": ["he", "him", "his"],
+    "og:profile:eye_color": "blue"
   },
   "og:links": {
     "og:link:twitter": "https://twitter.com/darcy",
