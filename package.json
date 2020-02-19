@@ -1,6 +1,6 @@
 {
   "name": "darcy",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "I build things (ie. apps, experiences, companies, teams, communities & culture) I ❤ the web+ux & take a holistic approach to problem solving (dev+des+strategy)",
   "main": "index.js",
   "scripts": {
