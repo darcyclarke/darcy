@@ -12,7 +12,8 @@
     "og:profile:username": "darcyclarke",
     "og:profile:gender": "male",
     "og:profile:pronouns": ["he", "him", "his"],
-    "og:profile:eye_color": "blue"
+    "og:profile:eye_color": "blue",
+    "og:profule:hair_color": "blonde"
   },
   "og:links": {
     "og:link:twitter": "https://twitter.com/darcy",
