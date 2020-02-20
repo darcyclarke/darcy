@@ -13,7 +13,8 @@
     "og:profile:gender": "male",
     "og:profile:pronouns": ["he", "him", "his"],
     "og:profile:eye_color": "blue",
-    "og:profule:hair_color": "blonde"
+    "og:profile:hair_color": "blonde",
+    "og:profile:height": "6ft"
   },
   "og:links": {
     "og:link:twitter": "https://twitter.com/darcy",
