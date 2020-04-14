@@ -42,7 +42,7 @@
     "mocha": "7.1.0",
     "netlify-lambda": "^1.6.3",
     "pre-git": "3.17.1",
-    "start-server-and-test": "^1.10.9",
+    "start-server-and-test": "^1.11.0",
     "yargs": "15.3.0"
   },
   "keywords": [
