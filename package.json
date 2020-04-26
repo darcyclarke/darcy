@@ -39,7 +39,7 @@
     "inquirer": "7.1.0",
     "lowdb": "1.0.0",
     "marked": "^0.8.0",
-    "mocha": "7.1.0",
+    "mocha": "7.1.2",
     "netlify-lambda": "^1.6.3",
     "pre-git": "3.17.1",
     "start-server-and-test": "^1.10.9",
